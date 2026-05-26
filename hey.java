@@ -8,7 +8,7 @@ public class hey {
     size = sc.nextInt();
         switch (size){
             case 1:
-                System.out.println("You choice is 1");
+              System.out.println("You choice is 1")  ;
                 break;
             case 2:
                 System.out.println("You choice is 2");
